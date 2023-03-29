@@ -1,11 +1,11 @@
 {
   "id": "22ab7bf6-4f09-469b-9196-fbb268c99db1",
   "version": "2.0",
-  "name": "PD ",
-  "url": "http://34.171.101.114 ",
+  "name": "Half-automation-test ",
+  "url": "http://serwer169007.lh.pl/autoinstalator/serwer169007.lh.pl/wordpress10772/",
   "tests": [{
     "id": "3793ba66-1867-47cd-b7b4-e87b17567402",
-    "name": "KKB 1 ",
+    "name": "ex1 ",
     "commands": [{
       "id": "d64cde75-b10f-4662-a4a9-141d88d76f41",
       "comment": "",
@@ -51,7 +51,7 @@
       "id": "cd3a9139-9b2b-4c83-9d11-04036bf213a4",
       "comment": "",
       "command": "type",
-      "target": "id=username",
+      "target": "id=user",
       "targets": [
         ["id=username", "id"],
         ["name=username", "name"],
@@ -130,7 +130,7 @@
     }]
   }, {
     "id": "3f4e3776-5cd4-42d2-b6ad-890a047d029f",
-    "name": "KKB 2 ",
+    "name": "ex2 ",
     "commands": [{
       "id": "5d72449f-0f0c-44f8-8a05-4e34305a7dbe",
       "comment": "",
@@ -287,7 +287,7 @@
     }]
   }, {
     "id": "a0f455ab-577e-4047-a569-2eb5b08932a5",
-    "name": "KKB 3a ",
+    "name": "ex3a ",
     "commands": [{
       "id": "affe14aa-15d0-4be7-be94-74aa8a823b98",
       "comment": "",
@@ -469,7 +469,7 @@
     }]
   }, {
     "id": "d11e0ef6-5add-465b-8965-06962179ff81",
-    "name": "KKB 3b",
+    "name": "ex3b",
     "commands": [{
       "id": "b08964e4-ba20-4291-b816-75160d1880fd",
       "comment": "",
@@ -524,7 +524,7 @@
     }]
   }, {
     "id": "3d081ef6-922b-4e4e-b41a-b585847fe6c0",
-    "name": "KKB 3c",
+    "name": "ex3c",
     "commands": [{
       "id": "2f03ac74-c437-4f07-b770-75bef01bc8d5",
       "comment": "",
