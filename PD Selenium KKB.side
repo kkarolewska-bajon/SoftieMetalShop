@@ -1,7 +1,7 @@
 {
   "id": "22ab7bf6-4f09-469b-9196-fbb268c99db1",
   "version": "2.0",
-  "name": "Half-automation-test ",
+  "name": "Test_with_SeleniumIDE_plugin",
   "url": "http://serwer169007.lh.pl/autoinstalator/serwer169007.lh.pl/wordpress10772/",
   "tests": [{
     "id": "3793ba66-1867-47cd-b7b4-e87b17567402",
